@@ -96,7 +96,7 @@ struct AboutView: View {
 
                 // GitHub 链接
                 Button(action: {
-                    if let url = URL(string: "https://github.com/ray1084784475/Launchpad-for-macOS26") {
+                    if let url = URL(string: "https://github.com/ray1084784475/macOS26-Launchpad") {
                         NSWorkspace.shared.open(url)
                         NSApplication.shared.terminate(nil)
                     }
