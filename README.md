@@ -1,6 +1,6 @@
 # macOS26启动台｜Launchpad for macOS26
 
-**简体中文** | **[English](./Readme-en.md)**
+**简体中文** | **[English](./README-en.md)**
 
 <div align="center">
 	<img width="100" height="100" src="./assets/logo.png" />
